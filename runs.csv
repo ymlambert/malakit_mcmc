@@ -1,0 +1,13 @@
+species,model_name,run_name,I0,T_NT,T_HS
+pf,main,ref,2100,160,NA
+pv,main,ref,1650,70,35
+pf,llin,2betas,2100,160,NA
+pv,llin,2betas,1650,70,35
+pf,main,I0_2800,2800,160,NA
+pf,main,TNT_180,2100,180,NA
+pf,main,TNT_140,2100,140,NA
+pv,main,I0_2200,2200,70,35
+pv,main,TNT_80,1650,80,35
+pv,main,TNT_60,1650,60,35
+pv,main,THS_53,1650,70,53
+pv,main,THS_23,1650,70,23
